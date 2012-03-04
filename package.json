@@ -30,6 +30,7 @@
     "maintainers": [],
     "files": [
         "jquery.timeline.js",
+		"jquery.timeline-min.js",
 		"jquery.timeline.css"
     ]
 }
