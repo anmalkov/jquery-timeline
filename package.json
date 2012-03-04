@@ -1,0 +1,35 @@
+{
+    "name": "timeline",
+    "version": "1.0.0",
+    "title": "jQuery.timeline()",
+    "author": {
+        "name": "Andrew Malkov",
+        "url": "https://github.com/anmalkov"
+    },
+    "licenses": [
+        {
+            "type": "GPLv2",
+            "url": "GPL-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1",
+		"qtip": ">=1.0.0"
+    },
+    "description": "The main purpose of this plugin is to show the events in the timeline (aka timeboard)",
+    "keywords": [
+        "timeline",
+        "timeboard",
+        "event",
+        "month",
+		"week"
+    ],
+    "homepage": "https://github.com/anmalkov/jquery-timeline",
+	"docs": "https://github.com/anmalkov/jquery-timeline",
+	"demo": "https://github.com/anmalkov/jquery-timeline",
+    "maintainers": [],
+    "files": [
+        "jquery.timeline.js",
+		"jquery.timeline.css"
+    ]
+}
